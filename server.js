@@ -1,3 +1,4 @@
+// dependencies
 const express = require('express');
 const app = express();
 const PORT = process.env.PORT || 3001;
@@ -10,8 +11,6 @@ app.use(express.json());
 app.use(express.static('public'));
 
 // routes to routes file
-// require('./routes/apiRoutes')(app);
-// require('./routes/htmlRoutes')(app);
 app.use(require('./routes/apiRoutes'));
 app.use(require('./routes/htmlRoutes'));
 
