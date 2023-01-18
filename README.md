@@ -26,7 +26,7 @@ node server.js
 ```
 
 ## Deployed HEROKU APP
-[View deployed HEROKU app here!](https://peaceful-wildwood-17368.herokuapp.com/)
+[View deployed HEROKU app here!]()
 
 ![Shot-1](images/StartPage.png)
-![Shot-2](images/notes.png)
+![Shot-2](images/NotesPage.png)
