@@ -26,7 +26,7 @@ node server.js
 ```
 
 ## Deployed HEROKU APP
-[View deployed HEROKU app here!]()
+[View deployed HEROKU app here!](https://note-taker2023.herokuapp.com/)
 
 ![Shot-1](images/StartPage.png)
 ![Shot-2](images/NotesPage.png)
